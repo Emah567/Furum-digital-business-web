@@ -1,51 +1,48 @@
-## [Landwind - Tailwind CSS Landing Page](https://https://demo.themesberg.com/landwind/)
+# Furum Website
 
-<a href="https://https://demo.themesberg.com/landwind/" rel="Tailwind CSS Landing Page">![Tailwind CSS Landing Page Demo - Flowbite](https://themesberg.s3.us-east-2.amazonaws.com/public/github/landwind/thumbnail.png)</a>
+Welcome to the Furum website! Furum is a creative digital agency that specializes in building digital products and brands. This website is designed and developed using HTML and Tailwind CSS, with various features, including "Animate on Scroll."
 
-Landwind is a free and open-source landing page built for SaaS and product websites based on the Tailwind CSS utility-first framework and the Flowbite Component Library featuring a hero section, customer logos, feature sections, testimonials, pricing cards, FAQ section, pre-footer CTA button and a footer.
+## Features
 
-Built with ❤️ by [Themesberg](https://themesberg.com) based on Tailwind CSS and Flowbite.
+### Animate on Scroll
 
-## Live preview
+- The Furum website utilizes "Animate on Scroll" effects to make the user experience engaging and visually appealing. Elements on the page come to life as you scroll down, creating a dynamic and interactive design.
 
-Check out a live demo by clicking here:
+### Responsive Design
 
-🔗 [Landwind live preview](https://https://demo.themesberg.com/landwind/) (🌗 switch on dark mode using your computer preferences)
+- The website is responsive and optimized for various screen sizes and devices. Whether you're viewing it on a desktop, tablet, or smartphone, the content adapts to provide a seamless user experience.
 
-## Getting started
+### Services
 
-Make sure that you have [Node.js](https://nodejs.org/en/), [Tailwind CSS](https://tailwindcss.com/docs/installation) and [Flowbite](https://flowbite.com/docs/getting-started/quickstart/) installed.
+- Explore our wide range of services, including web development, mobile app development, branding and design, e-commerce solutions, digital marketing, and UI/UX design. Each service is presented with detailed information.
 
-1. Run `npm install` inside your terminal
+### Portfolio
 
-2. Watch for files and compile Tailwind CSS + Flowbite:
+- Discover our portfolio of past projects to get a glimpse of our creative work. We've had the privilege of working with various clients and industries, and our portfolio showcases our expertise.
 
-```
-npx tailwindcss -i ./input.css -o ./output.css --watch
-```
+### Contact Us
 
-3. To deploy you will only need the `index.html` file and the `output.css` styles.
+- Get in touch with Furum for your digital project or branding needs. We're here to answer your questions, discuss your ideas, and help you get started on building a strong digital presence.
 
-Alternatively you can also just directly copy this code into your own projects, whether you use Laravel, React, Vue.js or other frameworks.
+## Getting Started
 
-## Figma design file
+To explore the Furum website, you can simply visit [https://furum-digital.vercel.app/](https://furum-digital.vercel.app/) in your web browser.
 
-We have also built a free Figma design file that you can duplicate from the community website:
+## Technologies Used
 
-👉 [Landwind Figma file](https://www.figma.com/community/file/1125744163617429490)
+- HTML
+- Tailwind CSS
 
-## Built with Tailwind CSS and Flowbite
+## Support and Contact
 
-This landing page was built using the following technologies:
-
-- 🔗 [Tailwind CSS](https://tailwindcss.com/)
-- 🔗 [Flowbite Library](https://flowbite.com/docs/getting-started/introduction/)
-- 🔗 [Flowbite Blocks](https://flowbite.com/blocks/)
-
-## About us
-
-We build free and premium themes with technologies such as Bootstrap, React, Tailwind, Vue, Laravel and more over at [Themesberg](https://themesberg.com).
+If you have any questions or need assistance, please feel free to reach out to us at [edetemmanuel567@gmail.com](mailto:edetemmanuel567@gmail.com).
 
 ## License
 
-This project is open source under the MIT license.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+---
+
+**Note:** This README is a sample and can be customized to provide specific details about your Furum website, including installation instructions if it's open-source, additional features, or any other relevant information.
+
+Thank you for visiting the Furum website!
